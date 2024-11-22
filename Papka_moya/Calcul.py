@@ -6,3 +6,4 @@ class Calculator:
 
     def print_last_res(self):
         print(self.last_res)
+#fdfdf

@@ -7,6 +7,6 @@ from Calcul import Calculator
 # 4. Работай животное
 
 calc = Calculator()
-calc.sum(10, 6)
+calc.sum(11, 6)
 calc.print_last_res()
 
