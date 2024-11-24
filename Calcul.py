@@ -4,7 +4,7 @@ class Calculator:
         self.last_res = n1 + n2
         return n1+n2
 
-    def ymnozhenie(self, n1, n2):
+    def delenie(self, n1, n2):
         self.last_res = n1 * n2
         return n1 * n2
 
